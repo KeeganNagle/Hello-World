@@ -1,6 +1,6 @@
 # Hello-World
 
-##Table of Contents
+## Table of Contents
 1. Project Title
 2. Purpose
 3. Programs Used
@@ -9,12 +9,15 @@
 6. Conclusion
 
 **Project Title**
+
 Data Analytics and the National Football League
 
 **Purpose**
+
 Determine the most important factors to winning in the NFL
 
 **Programs Used**
+
 Microsoft Excel
 
 **Methodologies**
@@ -27,4 +30,5 @@ Microsoft Excel
 - [Football Outsiders](https://www.footballoutsiders.com/)
 
 **Conclusion**
+
 We concluded that OSRS, DSRS, and SoS all have a significant impact on the winning percentages of NFL teams.
