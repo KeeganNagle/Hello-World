@@ -17,8 +17,7 @@ Data Analytics and the National Football League
 Determine the most important factors to winning in the NFL
 
 **Programs Used**
-
-Microsoft Excel
+- Microsoft Excel
 
 **Methodologies**
 - Multivariable Regression
